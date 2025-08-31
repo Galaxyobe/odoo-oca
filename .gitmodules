@@ -2,3 +2,7 @@
 	path = web
 	url = https://github.com/OCA/web.git
 	branch = 18.0
+[submodule "hr"]
+	path = hr
+	url = https://github.com/OCA/hr
+	branch = 18.0
