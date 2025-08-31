@@ -6,3 +6,7 @@
 	path = hr
 	url = https://github.com/OCA/hr
 	branch = 18.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA/partner-contact
+	branch = 18.0
