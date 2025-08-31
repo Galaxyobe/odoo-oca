@@ -10,3 +10,7 @@
 	path = partner-contact
 	url = https://github.com/OCA/partner-contact
 	branch = 18.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/OCA/product-attribute
+	branch = 18.0
