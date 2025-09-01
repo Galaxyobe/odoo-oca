@@ -26,3 +26,7 @@
 	path = purchase-workflow
 	url = https://github.com/OCA/purchase-workflow
 	branch = 18.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow
+	branch = 18.0
