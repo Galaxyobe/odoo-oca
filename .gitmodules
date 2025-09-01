@@ -22,3 +22,7 @@
 	path = server-ux
 	url = https://github.com/OCA/server-ux
 	branch = 18.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/OCA/purchase-workflow
+	branch = 18.0
