@@ -42,3 +42,7 @@
 	path = server-tools
 	url = https://github.com/OCA/server-tools
 	branch = 18.0
+[submodule "payroll"]
+	path = payroll
+	url = https://github.com/OCA/payroll
+	branch = 18.0
