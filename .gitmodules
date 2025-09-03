@@ -46,3 +46,7 @@
 	path = payroll
 	url = https://github.com/OCA/payroll
 	branch = 18.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse
+	branch = 18.0
