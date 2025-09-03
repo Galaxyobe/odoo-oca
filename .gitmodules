@@ -62,3 +62,7 @@
 	path = stock-logistics-tracking
 	url = https://github.com/OCA/stock-logistics-tracking
 	branch = 18.0
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/OCA/delivery-carrier
+	branch = 18.0
