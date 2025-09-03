@@ -54,3 +54,7 @@
 	path = stock-logistics-barcode
 	url = https://github.com/OCA/stock-logistics-barcode
 	branch = 18.0
+[submodule "stock-logistics-shopfloor"]
+	path = stock-logistics-shopfloor
+	url = https://github.com/OCA/stock-logistics-shopfloor
+	branch = 18.0
