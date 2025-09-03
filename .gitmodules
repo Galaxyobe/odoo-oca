@@ -58,3 +58,7 @@
 	path = stock-logistics-shopfloor
 	url = https://github.com/OCA/stock-logistics-shopfloor
 	branch = 18.0
+[submodule "stock-logistics-tracking"]
+	path = stock-logistics-tracking
+	url = https://github.com/OCA/stock-logistics-tracking
+	branch = 18.0
